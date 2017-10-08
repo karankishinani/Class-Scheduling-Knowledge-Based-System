@@ -1,6 +1,11 @@
 # Class-Scheduling-Knowledge-Based-System
 Knowledge Based System for the Preparation of University Class Schedules using Visual Prolog
 
+## Note
+```
+Only the main code is provided in "main.pro" from the Visual Prolog project
+```
+
 ## General Objective
 Developing a prototype of a Knowledge Based System that allows the preparation of class schedules at the Universidad Tecnologica de Panama (UTP).
 
